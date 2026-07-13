@@ -63,4 +63,4 @@ See [PRODUCT_DECISIONS.md](./PRODUCT_DECISIONS.md) for the research, product rat
 
 ## Live Prototype
 
-[Live prototype URL will be added after deployment]
+[https://toggl-work-evidence-review.vercel.app](https://toggl-work-evidence-review.vercel.app)
