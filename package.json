@@ -19,7 +19,6 @@
   },
   "devDependencies": {
     "@eslint/js": "latest",
-    "@rolldown/binding-darwin-arm64": "^1.1.5",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "eslint": "latest",
